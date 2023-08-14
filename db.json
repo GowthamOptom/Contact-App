@@ -1,0 +1,25 @@
+{
+  "Contacts": [
+    {
+      "name": "Petta",
+      "email": "pettaparak@gmail.com",
+      "phonenumber": "1234567890",
+      "category": "family",
+      "id": 1
+    },
+    {
+      "name": "Jailer",
+      "email": "jailer100@gmail.com",
+      "phonenumber": "10000001",
+      "category": "friends",
+      "id": 2
+    },
+    {
+      "name": "Kala",
+      "email": "Kala1000@gmail.com",
+      "phonenumber": "2000230",
+      "category": "work",
+      "id": 3
+    }
+  ]
+}
